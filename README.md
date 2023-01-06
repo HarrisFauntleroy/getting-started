@@ -327,7 +327,7 @@ System.out.println("x is positive");
 
 _#10_
 
-Logic and math: Logic refers to the principles of reasoning and argument used in problem-solving and decision-making. In programming, logic is used to write algorithms and control structures that make decisions and take actions based on certain conditions. Many programming tasks also involve performing mathematical calculations, such as finding averages, generating random numbers, or plotting graphs.
+Operators are special symbols in programming languages that perform specific operations on one or more values. Some common operators include arithmetic operators (e.g. +, -, *, /), comparison operators (e.g. >, <, ==, !=), and logical operators (e.g. &&, ||, !). The type of operator used and the number of values it operates on depends on the specific programming language and context in which it is used.
 
 <details open><summary>Examples</summary>
 <p>
@@ -335,37 +335,36 @@ Logic and math: Logic refers to the principles of reasoning and argument used in
 #### Typescript Example
 
 ```typescript
-// Use the "&&" operator to check if both "x" and "y" are true.
-if (x && y) {
-  console.log("both x and y are true");
-}
+// Declare two variables "x" and "y" and assign them values of 10 and 5, respectively.
+let x: number = 10;
+let y: number = 5;
 
-// Use the "+" operator to add two numbers.
-let sum: number = 1 + 2;
+// Use the "+" operator to add the values of "x" and "y" and store the result in a variable called "sum".
+let sum: number = x + y;
 
-// Use the Math.random() function to generate a random number between 0 and 1.
-let randomNumber: number = Math.random();
+// Use the ">" operator to compare the values of "x" and "y" and store the result in a variable called "isGreater".
+let isGreater: boolean = x > y;
 
-// Use the Math.floor() function to round a number down to the nearest integer.
-let roundedNumber: number = Math.floor(3.6); // Output: 3
+// Use the "&&" operator to check if both "x" is greater than 5 and "y" is less than 10.
+let isValid: boolean = (x > 5) && (y < 10);
 ```
 
 #### Java Example
 
 ```java
-// Use the "&&" operator to check if both "x" and "y" are true.
-if (x && y) {
-System.out.println("both x and y are true");
-}
+// Declare two variables "x" and "y" and assign them values of 10 and 5, respectively.
+int x = 10;
+int y = 5;
 
-// Use the "+" operator to add two numbers.
-int sum = 1 + 2;
+// Use the "+" operator to add the values of "x" and "y" and store the result in a variable called "sum".
+int sum = x + y;
 
-// Use the Math.random() method to generate a random number between 0 and 1.
-double randomNumber = Math.random();
+// Use the ">" operator to compare the values of "x" and "y" and store the result in a variable called "isGreater".
+boolean isGreater = x > y;
 
-// Use the Math.floor() method to round a number down to the nearest integer.
-int roundedNumber = (int) Math.floor(3.6); // Output: 3
+// Use the "&&" operator to check if both "x" is greater than 5 and "y" is less than 10.
+boolean isValid = (x > 5) && (y < 10);
+
 ```
 
 </details>
