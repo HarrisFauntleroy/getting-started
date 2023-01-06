@@ -4,7 +4,7 @@ _#1_ - **Programming languages**
 
 Programming languages are used to give computers instructions. A program is a set of instructions that a computer can follow to perform a task. Programs are written using a specific programming language, such as Java or Python.
 
-<details open><summary>Examples</summary>
+<details><summary>Examples</summary>
 <p>
 
 #### Typescript Example
@@ -36,7 +36,7 @@ _#2_ - **Variables and statements**
 
 A variable is like a container that can hold a value. Variables have a name and a type. A statement is a single instruction in a program. Statements are often used to perform actions, such as printing text to the screen or performing calculations.
 
-<details open><summary>Examples</summary>
+<details><summary>Examples</summary>
 <p>
 
 #### Typescript Example
@@ -68,7 +68,7 @@ _#3_ - **Control structures**
 
 Control structures are used to control the flow of a program. There are several types of control structures, such as "if" statements, "for" loops, and "while" loops. Control structures allow a program to make decisions and repeat tasks.
 
-<details open><summary>Examples</summary>
+<details><summary>Examples</summary>
 <p>
 
 #### Typescript Example
@@ -106,7 +106,7 @@ _#4_ - **Functions**
 
 A function is a group of statements that performs a specific task. Functions can accept input in the form of "arguments" and return output in the form of a "return value". Functions allow programs to be organized into reusable pieces.
 
-<details open><summary>Examples</summary>
+<details><summary>Examples</summary>
 <p>
 
 #### Typescript Example
@@ -148,7 +148,7 @@ _#5_ - **Algorithms and data structures**
 
 An algorithm is a set of steps for solving a specific problem. A data structure is a way of organizing and storing data in a computer. Different algorithms and data structures are suitable for different types of problems.
 
-<details open><summary>Examples</summary>
+<details><summary>Examples</summary>
 <p>
 
 #### Typescript Example
@@ -187,7 +187,7 @@ _#6_ - **Types**
 
 In programming, a type refers to the kind of data that a variable or expression can represent. Some common types include numbers, strings, and booleans. Programming languages can have both primitive types (e.g. integers, floats) and composite types (e.g. objects, arrays).
 
-<details open><summary>Examples</summary>
+<details><summary>Examples</summary>
 <p>
 
 #### Typescript Example
@@ -225,7 +225,7 @@ _#7_ - **Type safety**
 
 Type safety refers to the idea that variables and expressions in a progam ould only be allowed to hold and operate on values of the correct type. Type safety helps prevent errors and makes programs more predictable. Some programming languages are statically-typed (type checked at compile-time), while others are dynamically-typed (type checked at runtime).
 
-<details open><summary>Examples</summary>
+<details><summary>Examples</summary>
 <p>
 
 #### Typescript Example
@@ -251,7 +251,7 @@ _#8_ - **Naming conventions**
 
 Naming conventions are rules for choosing names for variables, functions, and other program elements. Different programming languages and communities may have different naming conventions.
 
-<details open><summary>Examples</summary>
+<details><summary>Examples</summary>
 <p>
 
 #### Typescript Example
@@ -287,7 +287,7 @@ _#9_ - **Syntax**
 
 Syntax refers to the set of rules that govern the structure of a program written in a particular language. Examples of syntax include the way that statements are terminated, the way that function calls are formatted, and the way that code blocks are denoted.
 
-<details open><summary>Examples</summary>
+<details><summary>Examples</summary>
 <p>
 
 #### Typescript Example
@@ -329,7 +329,7 @@ _#10_ - **Operators**
 
 Operators are special symbols in programming languages that perform specific operations on one or more values. Some common operators include arithmetic operators (e.g. +, -, *, /), comparison operators (e.g. >, <, ==, !=), and logical operators (e.g. &&, ||, !). The type of operator used and the number of values it operates on depends on the specific programming language and context in which it is used.
 
-<details open><summary>Examples</summary>
+<details><summary>Examples</summary>
 <p>
 
 #### Typescript Example
